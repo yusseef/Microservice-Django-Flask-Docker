@@ -1,5 +1,5 @@
 
-# Microservice app (Django / Flask)
+# Microservice app (Django / Flask / Docker / RabbitMQ)
 
 The microservice app consists of two services: one built using Django and the other built using Flask. The Django service is responsible for handling CRUD (Create, Read, Update, Delete) operations related to products. This includes creating new products, retrieving existing products, updating product information, and deleting products.
 
